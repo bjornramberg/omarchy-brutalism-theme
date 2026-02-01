@@ -1,6 +1,6 @@
 # Omarchy Brutalism Theme
 
-This is a custotom theme for [Omarchy.org](https://omarchy.org) that is inspired by earthy tones and brutalism architecture.
+This is a custom theme for [Omarchy.org](https://omarchy.org) that is inspired by earthy tones and brutalism architecture.
 
 
 _Brutalism is often misunderstood as a celebration of the "ugly" or the "harsh," but for those that look closer, they'll find it is about honesty and idealism._
