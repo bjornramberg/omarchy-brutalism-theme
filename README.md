@@ -3,9 +3,7 @@
 This is a custom theme for [Omarchy.org](https://omarchy.org) that is inspired by earthy tones and brutalism architecture.
 
 
-_Brutalism is often misunderstood as a celebration of the "ugly" or the "harsh," but for those that look closer, they'll find it is about honesty and idealism._
-
-_Brutalism is an architecture of truth, stripping away the decorative masks of the past to reveal the strength of the soul beneath._
+_Brutalism is often misunderstood as a celebration of the "ugly" or the "harsh," but for those that look closer, it is about honesty and idealism. Brutalism is an architecture of truth, stripping away the decorative masks of the past to reveal the strength of the soul beneath._
 
 
 <p align="center">
