@@ -37,8 +37,8 @@ This theme includes configurations for:
 - Warp (warp.yaml) - Terminal emulator
 - Waybar (waybar.css) - Status bar for Wayland
 - Wofi (wofi.css) - Application launcher for Wayland
-- Zed (aether.zed.json, aether.override.css) - Code editor
-- + Custom brutalism backgrounds 
+- Zed (aether.zed.json, aether.override.css) - Code editor<br>
+... along with custom brutalism backgrounds.
 
 ## AI disclosure
 AI was used in the creation of the background pictures for this theme.
