@@ -5,7 +5,7 @@ This is a custom theme for [Omarchy.org](https://omarchy.org) that is inspired b
 
 _Brutalism is often misunderstood as a celebration of the "ugly" or the "harsh," but for those that look closer, it is about honesty and idealism. Brutalism is an architecture of truth, stripping away the decorative masks of the past to reveal the strength of the soul beneath._
 
-<img width="3840" height="2160" alt="preview" src="https://github.com/user-attachments/assets/335e3c23-3f0d-4ea3-96ca-4531944b041b" />
+<img width="3840" height="2160" alt="preview" src="preview.png" />
 
 ## Installation
 
